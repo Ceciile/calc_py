@@ -21,3 +21,4 @@
 not	布尔“非”	如果x为True，返回False。如果x为False，它返回True。	not (1 == 1)返回False。
 and	布尔“与”	如果x为False，x and y返回False，否则它返回y的计算值。	(1==1) and(1 == 2)返回False
 or	布尔“或”	如果x是True，它返回True，否则它返回y的计算值。	(1==1) or (1 == 2)返回True
+
